@@ -1,2 +1,3 @@
-# Automated-Stone-Detection-and-Counting-System-for-Embroidered-Textile
-Automated stone detection &amp; counting system for embroidered fabrics using YOLOv8 object detection. Detects small stones amid zari shine &amp; overlaps via image preprocessing, CNN backbone, bounding box regression, NMS. ML coursework project replacing manual textile QC with scalable PyTorch solution.
+n textile manufacturing, outsourced contractors apply decorative stones to embroidered fabrics and share the declared stone count with buyers. However, due to verification concerns, buyers must manually inspect and recount stones to ensure accuracy. This manual inspection process is time-consuming, inconsistent, and prone to human error.
+
+This project aims to develop a Machine Learning-based automated system for accurately counting decorative stones in embroidered fabrics. The system will analyze high-resolution fabric images and differentiate stones from complex embroidery patterns and shiny zari work. The primary objective is to generate a reliable stone count and compare it with the declared value for automated quality verification in textile production.
